@@ -1,3 +1,5 @@
+package Synap;
+
 public class SynapSoft_Quiz08 {
     // 알파벳은 하나의 숫자를 나타내고
     // 각 알파벳에 하나의 숫자를 배정하고
