@@ -1,6 +1,6 @@
 package Synap;
 
-public class Synap_Quiz_0000 {
+public class Synap_Quiz_ {
 
     public static void main(String[] args) {
 
