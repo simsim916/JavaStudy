@@ -9,7 +9,7 @@ public class Synap_Quiz_15 {
         for (int i = 21; i <= 37; i+=2) {
             result *= i;
             System.out.println(result);
-ssd
+
         }
 
         System.out.println(result);
